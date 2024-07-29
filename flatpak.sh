@@ -8,3 +8,4 @@ flatpak install -y --noninteractive org.gimp.GIMP
 flatpak install -y --noninteractive net.ankiweb.Anki
 flatpak install -y --noninteractive com.discordapp.Discord
 flatpak install -y --noninteractive flathub portproton
+flatpak install -y --noninteractive com.mattjakeman.ExtensionManager
