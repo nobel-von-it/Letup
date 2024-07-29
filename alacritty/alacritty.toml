@@ -1,0 +1,25 @@
+[font]
+size = 12
+
+[font.bold]
+family = "JetBrainsMonoNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMonoNerdFont"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMonoNerdFont"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMonoNerdFont"
+style = "Normal"
+
+[window]
+opacity = 0.7
+
+[window.padding]
+x = 5
+y = 5
